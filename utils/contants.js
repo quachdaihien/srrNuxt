@@ -6,3 +6,5 @@
   export const BRACKET_TYPES = {
     SINGLE_ELIMINATION: 1,
   }
+
+  export const COMPONENT_SIZE_LIST = ["sm","md","lg","xl"]
